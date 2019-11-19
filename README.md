@@ -1,2 +1,2 @@
 # project1
- to analyse data-analysis-jobs in shenzhen
+ 爬取拉勾网上深圳市数据分析/商业数据分析岗位相关信息，分析这一岗位在深圳市的需求分布、薪酬水平和技能需求等。
